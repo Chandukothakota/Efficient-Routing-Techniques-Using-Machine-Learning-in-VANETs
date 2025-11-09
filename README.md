@@ -1,0 +1,2 @@
+# Efficient-Routing-Techniques-Using-Machine-Learning-in-VANETs
+“To design and implement a machine learning-based routing algorithm for VANETs that predicts and selects optimal routing paths under high mobility conditions, improving overall routing efficiency and data transmission performance.”This results in:  High packet loss    Low routing efficiency  Poor adaptability to real-time conditions  
