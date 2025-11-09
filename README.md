@@ -22,15 +22,6 @@ To overcome these limitations, this project introduces a **Reinforcement Learnin
 - ✅ Learns from environment feedback (successful data delivery rewards)  
 - ✅ Generates multiple performance graphs for analysis  
 - ✅ Fully executable in **Google Colab** or any Python environment
-- vanet_project/
-│
-├── configs/vanet.yaml # Configuration file (hyperparameters)
-├── models/q_table.npy # Saved model
-├── utils.py # Helper functions (mobility simulation, metrics)
-├── train_rl.py # Reinforcement Learning training script
-├── evaluate.py # Evaluation and performance testing
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
 
 | Metric             | Traditional Routing | ML-Based Routing             |
 | ------------------ | ------------------- | ---------------------------- |
@@ -43,3 +34,13 @@ To overcome these limitations, this project introduces a **Reinforcement Learnin
 ---
 
 ## 🗂️ Project Structure
+- vanet_project/
+│
+├── configs/vanet.yaml # Configuration file (hyperparameters)
+├── models/q_table.npy # Saved model
+├── utils.py # Helper functions (mobility simulation, metrics)
+├── train_rl.py # Reinforcement Learning training script
+├── evaluate.py # Evaluation and performance testing
+├── requirements.txt # Dependencies
+└── README.md # Project documentation
+
